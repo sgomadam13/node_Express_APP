@@ -18,6 +18,6 @@
   "homepage": "https://sgomadam13.github.io/node_Express_APP/",
   "dependencies": {
     "ejs": "^2.7.4",
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
